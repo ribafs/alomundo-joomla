@@ -1,5 +1,4 @@
-# alomundo-joomla
-Extensões do tipo hello world para Joomla
+# alomundo-joomla - Extensões do tipo hello world para Joomla 3
 
 ## Aqui trago as extensões:
 
